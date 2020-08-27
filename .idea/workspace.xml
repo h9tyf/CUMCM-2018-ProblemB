@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fb1967d-8af9-42d5-a683-b1e33f1606a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/simul.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/simul/ActionTypeForRGV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/simul/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/simul/MyCNC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/simul/MyRGV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/simul/MySystem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/simul/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +90,7 @@
       <workItem from="1598536794047" duration="411000" />
       <workItem from="1598537738104" duration="15000" />
       <workItem from="1598537768649" duration="90000" />
-      <workItem from="1598537877863" duration="1001000" />
+      <workItem from="1598537877863" duration="1322000" />
     </task>
     <task id="LOCAL-00001" summary="initial question1(sstf)">
       <created>1598453404598</created>
@@ -124,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598538648959</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add readme">
+      <created>1598538968127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598538968127</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,10 +157,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="397" y="197" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1598441186044" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1598538910628">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1598538967285">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598538910628" />
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598538967285" />
+    <state x="121" y="57" key="DiffContextDialog" timestamp="1598538980869">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="57" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1598538980869" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1598538553674">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -189,10 +189,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1598538581415" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1598537031697">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1598538986911">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1598537031697" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1598538986911" />
     <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1598537878157">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
